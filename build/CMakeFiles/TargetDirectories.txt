@@ -1,0 +1,7 @@
+/home/monsterharry/Documents/Android-Disk-Bandwidth-Test/build/CMakeFiles/disk_bandwidth_test.dir
+/home/monsterharry/Documents/Android-Disk-Bandwidth-Test/build/CMakeFiles/edit_cache.dir
+/home/monsterharry/Documents/Android-Disk-Bandwidth-Test/build/CMakeFiles/rebuild_cache.dir
+/home/monsterharry/Documents/Android-Disk-Bandwidth-Test/build/CMakeFiles/list_install_components.dir
+/home/monsterharry/Documents/Android-Disk-Bandwidth-Test/build/CMakeFiles/install.dir
+/home/monsterharry/Documents/Android-Disk-Bandwidth-Test/build/CMakeFiles/install/local.dir
+/home/monsterharry/Documents/Android-Disk-Bandwidth-Test/build/CMakeFiles/install/strip.dir
